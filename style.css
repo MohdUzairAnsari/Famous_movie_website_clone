@@ -227,6 +227,13 @@ footer .questions {
 }
 
 
+.lastfooter{
+    margin-top: 75px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
 
 @media screen and (max-width: 1300px) {
 
