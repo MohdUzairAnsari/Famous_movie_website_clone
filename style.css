@@ -232,6 +232,7 @@ footer .questions {
     display: flex;
     align-content: center;
     justify-content: center;
+    gap: 15px;
 }
 
 
